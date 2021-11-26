@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaquila=self.webpackChunkaquila||[]).push([[587],{9563:function(a){a.exports=JSON.parse('{"allTagsPath":"/documentation/blog/tags","slug":"/documentation/blog/tags/facebook","name":"facebook","count":1,"permalink":"/documentation/blog/tags/facebook"}')}}]);
