@@ -4,32 +4,10 @@ sidebar_position: 3
 
 # Supported Versions
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Module release versions compatible with `Aquila Network 1.0.0`
 
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npm init docusaurus@latest my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+- Aquila DB [`v0.4.0`](https://github.com/Aquila-Network/AquilaDB/releases/tag/v0.4.0)
+- Aquila HUB [`v0.1.0`](https://github.com/Aquila-Network/AquilaHub/releases/tag/v0.1.0)
+- Aquila PORT [`v0.0.1`](https://github.com/Aquila-Network/AquilaPort/releases/tag/v0.0.1)
+- Aquila Py [`v0.3.1`](https://github.com/Aquila-Network/AquilaPy/releases/tag/v0.3.1)
+- Aquila JS [`v1.0.0`](https://github.com/Aquila-Network/AquilaJS/releases/tag/v1.0.0)

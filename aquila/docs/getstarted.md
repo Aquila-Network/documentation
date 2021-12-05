@@ -4,32 +4,13 @@ sidebar_position: 2
 
 # Getting Started
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Single command install to Get Started
 
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npm init docusaurus@latest my-website classic
+If `docker` and `docker-compose` are installed in your machine, use below command to setup everything:
 ```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
+wget -O - https://raw.githubusercontent.com/Aquila-Network/AquilaX-CE/main/setup_aquilax.sh | /bin/bash
 ```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+for more details on installation, check [Aquila X CE repository](https://github.com/Aquila-Network/AquilaX-CE#install)
+#### Next steps after installing:
+- Install convenient browser extensions (Chrome, Firefox), check [Aquila X browser extensions](https://github.com/Aquila-Network/AquilaX-browser-extension)
+- Still struggling to setup? [Watch tutorial videos](https://www.youtube.com/channel/UCcghHPcdlh0V5TdQfLHjhOA)
